@@ -43,7 +43,7 @@ community:      Treasurer, ACM ENISo · Day-J committee lead, Forum de Convergen
 | **Jun 2025 – Jun 2026** | **Day-J Committee Lead** — Forum de Convergences ENISo | Led a team of 250+ members for a major student-company forum in Tunisia: logistics, partnerships, communication. |
 | **Sep 2025 – May 2026** | **Treasurer** — ACM ENISo | Budget management; helped organize *Code Clash 2.0*, a programming competition. |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🚀 Selected projects
 
@@ -100,7 +100,7 @@ Real-time system to collect, process and analyze vital signs, with automated ale
 
 > Repositories: [GitHub](https://github.com/HediBsf)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech stack
 
@@ -117,7 +117,7 @@ Real-time system to collect, process and analyze vital signs, with automated ale
 | **DevSecOps & Cloud** | CI/CD · Docker · Linux · Azure (AZ-900) · AWS (CLF-C02) |
 | **Embedded & IoT** | ESP32 · Arduino · STM32 · FPGA |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🏅 Certifications & distinctions
 
@@ -127,7 +127,7 @@ Real-time system to collect, process and analyze vital signs, with automated ale
 - 🐧 **LPI Linux Essentials**
 - 🏆 **1st place — Eniso IoT Challenge V6** (Orange Tech Club ENISo)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 📈 Activity
 
@@ -150,5 +150,5 @@ Real-time system to collect, process and analyze vital signs, with automated ale
 </details>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="Thanks for stopping by — github.com/HediBsf" width="100%" />
+  <img src="footer.svg" alt="Thanks for stopping by — github.com/HediBsf" width="100%" />
 </div>
