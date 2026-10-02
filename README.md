@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Hedi Boussoffara — AI, Machine Learning, IoT and DevSecOps. Open to a 6-month PFE from February 2027." width="100%" />
+  <img src="header.svg" alt="Hedi Boussoffara — AI, Machine Learning, IoT and DevSecOps. Open to a 6-month PFE from February 2027." width="100%" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
   📍 Tunisia (mobile for France) &nbsp;·&nbsp; 🎓 ENISo — Applied Computer Science & Networks &nbsp;·&nbsp; 🟢 PFE from February 2027
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 👋 About me
 
@@ -32,7 +32,7 @@ community:      Treasurer, ACM ENISo · Day-J committee lead, Forum de Convergen
 
 <!-- Optional: add a line like "🔭 Currently exploring: ..." only if it is true for you -->
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 💼 Experience
 
